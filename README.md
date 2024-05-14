@@ -1,1 +1,6 @@
 # dl_lab
+COLAB LINKS FOR MNIST DATASETS
+1) MNIST DATASET AND FULL CODE  LINK IS https://colab.research.google.com/drive/1uUX03U68L17biWJ5fa5-d-yjxGnAruEs
+2) MNIST DATASET WITH T2 IMPLEMENTATION FOR DIFFERENT OPTIMIZERS AND BATCH SIZES LINK IS https://colab.research.google.com/drive/1PUuNsEfJTliudC_RvuQ-PQZDw1tryRqd
+3) FASHION MNIST DATASET WITH DIFFERENT OPTIMIZERS LINK https://colab.research.google.com/drive/1e5drbM3B60OCHSUgtWCUmi_GyxV0dqV1
+4) 
